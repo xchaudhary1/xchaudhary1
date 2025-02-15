@@ -5,7 +5,7 @@ Welcome to my GitHub profile! 🚀
 ## About Me
 I’m a passionate software developer and tech enthusiast. I specialize in innovative solutions, with a focus on AI and Cloud Computing. My goal is to build cutting-edge software that transforms industries.
 
-🌐 **Website**: [xchaudhary.com](https://xchaudhary.com)  
+🌐 **Website**: [www.xchaudhary.com](https://xchaudhary.com)  
 ✉️ **Email**: [info@xchaudhary.com](mailto:info@xchaudhary.com)  
 🏢 **Organization**: [Neuro Lens](https://neurolens.io)
 
